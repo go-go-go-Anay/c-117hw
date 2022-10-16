@@ -1,0 +1,41 @@
+body{
+    background-color: lightsteelblue;
+}
+
+.header{
+font-weight: bold;
+}
+
+#labels{
+    background-color:whitesmoke;
+    width: 100px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#confidence{
+    background-color:whitesmoke;
+    width: 100px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#top{
+    background-color: whitesmoke;
+border-radius: 10px;
+    width: 1000px;
+}
+
+#show_sketch{
+    float: right;
+    margin-top: 3px;
+    margin-right: 3px;
+    border-radius: 8px;
+}
+
+#erase{
+    border-radius: 50px;
+}
+
+
+
